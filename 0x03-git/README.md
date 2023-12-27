@@ -1,4 +1,4 @@
-0x03. Git
+# 0x03. Git
 Git
 Code versioning
 Github
@@ -72,8 +72,8 @@ $ git push origin main
 Quiz questions
 Great! You've completed the quiz successfully! Keep going! (Show quiz)
 Tasks
-0. Create and setup your Git and GitHub account
-mandatory
+### 0. Create and setup your Git and GitHub account
+
 Score: 100.0% (Checks completed: 100.0%)
 Step 0 - Create an account on GitHub [if you do not have one already]
 You will need a GitHub account for all your projects at ALX. If you do not already have a github.com account, you can create an account for free here
@@ -156,8 +156,8 @@ Repo:
 GitHub repository: alx-zero_day
 File: README.md
     
-1. Repo-session
-mandatory
+### 1. Repo-session
+
 Score: 100.0% (Checks completed: 100.0%)
 Create a new directory called 0x03-git in your alx-zero_day repo.
 
@@ -169,27 +169,29 @@ And important part: Make sure your commit and push your code to Github - otherwi
 
 Repo:
 
-GitHub repository: alx-zero_day
+- GitHub repository: alx-zero_day
     
-2. Coding fury road
-mandatory
+### 2. Coding fury road
+```
 Score: 100.0% (Checks completed: 100.0%)
+```
 For the moment we have an empty project directory containing only a README.md. It’s time to code!
 
-Create these directories at the root of your project: bash, c, js
-Create these empty files:
-c/c_is_fun.c
-js/main.js
-js/index.js
-Create a file bash/alx with these two lines inside: #!/bin/bash and echo "ALX"
-Create a file bash/school with these two lines inside: #!/bin/bash and echo "School"
-Add all these new files to git
-Commit your changes (message: “Starting to code today, so cool”) and push to the remote server
+- Create these directories at the root of your project: bash, c, js
+- Create these empty files:
+   - c/c_is_fun.c
+   - js/main.js
+   - js/index.js
+- Create a file bash/alx with these two lines inside: #!/bin/bash and echo "ALX"
+- Create a file bash/school with these two lines inside: #!/bin/bash and echo "School"
+- Add all these new files to git
+- Commit your changes (message: “Starting to code today, so cool”) and push to the remote server
+  
 Repo:
 
-GitHub repository: alx-zero_day
-Directory: 0x03-git
-File: bash/alx, bash/school, c/c_is_fun.c, js/main.js, js/index.js
+- GitHub repository: alx-zero_day
+- Directory: 0x03-git
+- File: bash/alx, bash/school, c/c_is_fun.c, js/main.js, js/index.js
     
 ### 3. Collaboration is the base of a company
 ```
